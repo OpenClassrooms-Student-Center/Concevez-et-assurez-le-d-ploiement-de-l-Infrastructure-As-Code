@@ -1,0 +1,23 @@
+variables:
+  GIT_SUBMODULE_STRATEGY: recursive
+
+stages:
+  - build
+  - test
+  - deploy
+
+build:
+  stage: build
+  script:
+    - echo "Building the application"
+
+test:
+  stage: test
+  script:
+    - echo "Testing the application"
+
+deploy:
+  stage: deploy
+  script:
+    - echo "Deploying the application"
+
