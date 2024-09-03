@@ -21,10 +21,7 @@ Pour les autres outils (comme les pipelines CI), nous vous laissons le choix (ou
 
 ### Résumé
 
-Vous devez contribuer à l'amélioration des processus CD dans une entreprise fictive. Vous analyse les besoins, conçoit une solution, et la met en place.
-
-### Scénario
-Vous est Expert DevOps dans une grande entreprise, CréaLogiciels. Votre directeur DevOps, Hasan, vous a attribué un projet de gestion d'IAC. Vous devez analyser les besoins du projet, concevoir un processus CD amélioré, ensuite mettre en œuvre le CD avec les outils de conteneurisation, d'orchestration et du déploiement de l'IaC.
+Vous devez contribuer à l'amélioration des processus CD dans une entreprise fictive, CréaLogiciels. Votre directeur DevOps, Hasan, vous a attribué un projet de gestion d'IAC. Vous devez analyser les besoins du projet, concevoir un processus CD amélioré, ensuite mettre en œuvre le CD avec les outils de conteneurisation, d'orchestration et du déploiement de l'IaC.
 
 ## Étapes clés du projet
 
