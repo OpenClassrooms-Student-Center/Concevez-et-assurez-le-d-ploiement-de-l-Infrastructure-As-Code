@@ -48,6 +48,10 @@ Créez des fichiers Dockerfile pour chaque application et configurez les contene
 Testez tous les conteneurs pour vérifier leur bon fonctionnement.
 Documentez l’architecture et la conteneurisation dans le plan de la CD.
 
+https://github.com/OpenClassrooms-Student-Center/Gerez-un-projet-collaboratif-en-int-grant-une-demarche-CI-CD
+
+Utilisez les Helm charts présent dans le présent repo pour les ajouter à l'infrastructure (optionnel)
+
 Docker - https://www.docker.com
 
 ### Étape 4 - Orchestrez la conteneurisation avec Kubernetes
